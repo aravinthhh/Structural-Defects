@@ -1,0 +1,4 @@
+google.generativeai
+datetime
+pillow
+os
