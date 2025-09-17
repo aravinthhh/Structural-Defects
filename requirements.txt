@@ -1,4 +1,4 @@
-google.generativeai
+google-generativeai
 datetime
 pillow
 os
